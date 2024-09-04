@@ -1,0 +1,346 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    width: 99.93%;
+}
+.nav{
+    width: 1320px;
+    height: 71.438px;
+    display: flex;
+     align-items: center; 
+     flex-wrap: wrap;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 14.5px;
+    margin-right: 14.5px;
+}
+.logo{
+    /* background-image: url(https://www.maxhealthcarefoundation.org/wp-content/uploads/2023/12/Max-Healthcare-Foundation_Logo_031123-CTC-01-1.png); */
+    width: 244px;
+    height: 58.438px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    background-size: cover;
+}
+.img{
+    width: 120px;
+    height: 59px;
+    background-size: cover ;
+    background-image: url(https://www.maxhealthcarefoundation.org/wp-content/uploads/2023/12/Max-Healthcare-Foundation_Logo_031123-CTC-01-1.png);
+}
+.content{
+    height: 30px;
+    width:  1036px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    gap: 30px;
+    position: relative;
+    right: 0px;
+    font-size: 18px;
+    color: #003a70;
+    font-family:sans-serif;
+    padding: 10px;
+}
+.bu{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    height: 18px;
+}
+.hero{
+    background-image: url(https://www.maxhealthcarefoundation.org/wp-content/uploads/2024/02/MHC_Healthcare-Foundation_HO_Banner_060223-01.jpg);
+    width: 98.52%;
+    height: 300px;
+    padding: 0 10px 0 10px;
+}
+.cont{
+    width: 99.326%;
+    height: 260px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 4.5px 0 4.5px;
+    display: flex;
+    align-items: center; 
+    flex-wrap: wrap;
+    color: white;
+}
+.tex{
+    width: 100%;
+    height: 76px;
+    padding-top: 30px;
+    font-size: 32px;
+    font: sans-serif;
+}
+.CSR{
+    width: 98.518%;
+    height: 351px;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+.inner{
+    padding-top: 30px;
+    width: 99.323%;
+    height: 321px;
+}
+.h2{
+    width: 100%;
+    height: 32px;
+    font-size: 20px;
+    color: #003a70;
+    font-family: sans-serif;
+    font-weight:200;
+    text-decoration: underline;
+    border-bottom: 1px solid gray;
+
+}
+.text{
+    width: 100%;
+    height: 268px;
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 22px;
+    color: #545454;
+}
+.p1{
+    margin-bottom: 16px;
+}
+ul{
+    list-style-type: disc;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding-left: 15px;
+}
+.programe{
+    width: 99.9%;
+    height: 407px;
+   /* padding-left: 10px;
+   padding-right: 10px; */
+}
+.h{
+    width: 100%;
+    height: 31px;
+    font-size: 20px;
+    color: #003a70;
+    font-family: sans-serif;
+    text-decoration: underline;
+    border-bottom: 1px solid #545454;
+}
+.schlor{
+    width: 32.323%;
+    height: 334px;
+    padding: 10px;
+}
+.a{
+    width: 100%;
+    height: 200px;
+    background-image: url(https://media.nurse.org/cache/29/98/299888758a4f8e05992ac2cbf942215f.jpg);
+    background-size: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.about{
+    width: 93%;
+    height: 104px;
+    padding: 15px;
+    color: #003a70;
+}
+.medical{
+    width: 94.85%;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #003a70;
+    font-family: sans-serif;
+}
+.para{
+    font-family: sans-serif;
+    font-size: 16px;
+    width: 94.85%;
+    line-height: 23px;
+    color:#545454;
+}
+
+.inner3{
+    width: 100%;
+    height: 407px;
+    display: flex;
+    justify-content:center ;
+    flex-wrap: wrap;
+}
+.box1{
+    padding-left: 0px;
+}
+.box{
+    padding-right: 0px;
+}
+.a1{
+    background-image: url(max.jpg);
+    height:200px ;
+    width: 100%;
+    background-size: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.a2{
+    background-image: url(Water.jpg);
+    height:200px;
+    width: 100%;
+    background-size: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.inner4{
+    border: 1px solid rgb(228, 228, 228);
+    border-radius: 8px;
+}
+
+.center{
+    width: 99.323%;
+    height: 960.094px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 4.500px;
+    margin-right: 4.500px;
+}
+.button{
+    width: 100%;
+    height: 65px;
+    display: flex;
+}
+.b1{
+    width: 10.30%;
+    height: 22px;
+    border: none;
+}
+.tablist{
+        width: 100%;
+        height: 65px;
+        padding-left: 0px;
+        list-style-type: none;
+        margin: 0px;
+}
+.coverage{
+    display: inline;
+    width: 146.766px;
+    height: 22px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #35b6b4;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 35px;
+    border-bottom: 3px solid #35b6b4;
+    font-weight: 550;
+}
+.releases{
+    display: inline;
+    width: 146.766px;
+    height: 22px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #35b6b4;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 3px solid #35b6b4;
+    font-weight: 550;
+}
+.mediacoverage{
+    width: 99.773%;
+    height: 400.938px;
+    padding-top: 20px;
+    padding-left: 3px;
+}
+.box2{
+    /* width: 100%; */
+    height: 400.938px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.inner5{
+    width: 100%;
+    height: 380.938;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.mainimg{
+    width: 92.89%;
+    height: 358.938px;
+    padding: 10px;
+    border: 1px solid rgb(204, 203, 203);
+    border-radius: 5px;
+}
+.image{
+    width: 100%;
+    height: 358.938px;
+    background-image: url(https://www.maxhealthcarefoundation.org/wp-content/uploads/2024/01/Group-2767.jpg);
+    background-size: cover;
+}
+.image2{
+    width: 100%;
+    height: 358.938px;
+    background-image: url(https://www.maxhealthcarefoundation.org/wp-content/uploads/2024/01/Group-2766.jpg);
+    background-size: cover;
+}
+.image3{
+    width: 100%;
+    height: 358.938px;
+    background-image: url(https://www.maxhealthcarefoundation.org/wp-content/uploads/2024/01/Group-2765.jpg);
+    background-size: cover;
+}
+.image4{
+    width: 100%;
+    height: 358.938px;
+    background-image: url(https://www.maxhealthcarefoundation.org/wp-content/uploads/2024/01/Group-2764.jpg);
+    background-size: cover;
+}
+.maindiv{
+    width: 100%;
+    height: 450px;
+    display: flex;
+}
+.mainvideo{
+    width: 100%;
+    height: 379.156px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.video{
+    width: 48.1%;
+    height: 359.156px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+video{
+    border-radius: 10px;
+}
+.a3{
+    background-image: url(https://www.maxhealthcarefoundation.org/wp-content/uploads/2023/12/Bus_Donation_1920x690px_1_6526a61b93-1.jpg);
+    height:200px ;
+    width: 100%;
+    background-size: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.a4{
+    background-image: url(https://www.maxhealthcarefoundation.org/wp-content/uploads/2023/12/Food_Distribution_1920x690px_1_8f4a470abe-1.jpg);
+    height:200px ;
+    width: 100%;
+    background-size: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.a5{
+    background-image: url(https://www.maxhealthcarefoundation.org/wp-content/uploads/2023/12/Health_Check_1920x690px_0a771a2750-1.jpg);
+    height:200px ;
+    width: 100%;
+    background-size: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
